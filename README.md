@@ -13,7 +13,7 @@ Clone the Repository and set the twitter authentication then run the app in R St
 ## Authors
 - Isha Khimsurya --[ishakhimsurya](https://github.com/ishakhimsurya)
 - Jay Khatri --[jayskhatri](https://github.com/jayskhatri)
-- Priyank Shah
+- Priyank Shah --[priyank04](https://github.com/priyank04)
 
 ## License
 This project is under MIT Licence- see the [LICENCE.md](https://github.com/ishakhimsurya/Sentiment-Analysis-of-Twitter-using-Shiny/blob/master/LICENSE) for more details.
